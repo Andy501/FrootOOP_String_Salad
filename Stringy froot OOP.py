@@ -20,7 +20,7 @@ GreenGrapes = Grapes("Green", "Sour", "Oval")
 Red = Grapes("Red", "Sweet", "Cirle")
 
 print (f"{GreenGrapes.color} grapes are {GreenGrapes.flavor.lower()} and {GreenGrapes.shape.lower()} in shape.")
-print (f"Let's descrip these grapes: {GreenGrapes}.")
+print (f"Let's describe these grapes: {GreenGrapes}.")
 
 
 class Apples:
